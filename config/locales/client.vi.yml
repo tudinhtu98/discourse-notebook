@@ -1,8 +1,8 @@
-en:
+vi:
   js:
     notebook:
       title: 'Notebook'
-
       create_note:
         text_field_label: 'Note mới:'
         submit_label: 'Lưu'
+      delete_note_label: 'Xoá'
