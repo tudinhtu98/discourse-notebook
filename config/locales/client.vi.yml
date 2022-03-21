@@ -1,1 +1,8 @@
-vi:
+en:
+  js:
+    notebook:
+      title: 'Notebook'
+
+      create_note:
+        text_field_label: 'Note mới:'
+        submit_label: 'Lưu'
